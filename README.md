@@ -20,12 +20,10 @@ cd Marginal_Analysis_Tool
 You can install the required dependencies using pip. Make sure you have Python installed, then run:
 
 python
-Copy code
 pip install -r requirements.txt
 If you don't have a requirements.txt file yet, create one with this command:
 
 python
-Copy code
 pip freeze > requirements.txt
 This will include the necessary libraries such as Streamlit and any other dependencies.
 
@@ -33,7 +31,6 @@ This will include the necessary libraries such as Streamlit and any other depend
 Once everything is set up, start the Streamlit app with the following command:
 
 python
-Copy code
 streamlit run app.py
 This will launch the app in your default browser. You can now input your business data and receive recommendations for optimal production, order quantities, and resource allocation.
 

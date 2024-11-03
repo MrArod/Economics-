@@ -1,4 +1,3 @@
-# Economics Calculator 
 # Marginal Analysis Tool for Business Owners
 
 This Streamlit app helps business owners optimize production, order quantities, and resource inputs through data-driven marginal analysis. The tool is user-friendly and offers real-time feedback to make informed business decisions.
